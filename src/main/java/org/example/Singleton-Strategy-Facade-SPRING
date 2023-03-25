@@ -1,0 +1,6 @@
+o que é singleton, strategy e facade no spring
+
+singleton: @Bean e @Autowired
+strategy: @Service e @Repository;
+facade: Construiremos uma api rest com o mesmo objetivo desse padrão, abstratir a complexidade das seguintes
+integrações: Spring data JPA e ViaCep(feign)
